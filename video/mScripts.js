@@ -14,7 +14,7 @@ $(function () {
         setTimeout(function () {
             $(".conjuntoLoading").addClass('d-none');
             $("#divVideo").removeClass('d-none').addClass('d-flex');
-        }, 3000);
+        }, 4000);
     });
 
 });
